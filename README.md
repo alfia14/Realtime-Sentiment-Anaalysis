@@ -1,1 +1,1 @@
-# Realtime-Sentiment-Anaalysis
+# Realtime-Sentiment-Analysis
